@@ -2,7 +2,7 @@
 ```
 Follwings are from the best resources. 
 ```
-HOW TO HUNT: 
+HOW TO HUNT and APPROACHES: 
 - [ ] https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist.
 - [ ] https://github.com/OWASP/wstg/tree/master/document/4-Web_Application_Security_Testing.
 - [ ] https://github.com/daffainfo/AllAboutBugBounty
@@ -25,7 +25,7 @@ HOW TO HUNT:
 - [ ] https://github.com/anurag708989/recon_methodology
 - [ ] https://github.com/The-XSS-Rat/SecurityTesting
 
-WRITE UPS:
+WRITE UPS and REPORTS:
 - [ ] https://github.com/shadowsock5/Poc
 - [ ] https://github.com/juliocesarfort/public-pentesting-reports
 - [ ] https://github.com/harsh-bothra/resources/blob/gh-pages/index.md
@@ -37,6 +37,7 @@ WRITE UPS:
 - [ ] https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 - [ ] https://github.com/plancoo/Bugbounty_Writeups
 - [ ] https://github.com/piyushimself/Hackerone-onemillion-public-reports/blob/main/hackerone-one-million-reports
+- [ ] https://github.com/Linuxinet/BugcrowdVRT-Resources
 
 
 TOOLS:
@@ -49,23 +50,6 @@ TOOLS:
 
 TARGETS:
 - [ ] https://github.com/ARPSyndicate/bug-bounty-recon-dataset
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [ ] https://github.com/disclose/bug-bounty-platforms
 
 
