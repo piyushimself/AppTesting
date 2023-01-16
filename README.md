@@ -36,6 +36,7 @@ WRITE UPS:
 - [ ] https://github.com/ngalongc/bug-bounty-reference
 - [ ] https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 - [ ] https://github.com/plancoo/Bugbounty_Writeups
+- [ ] https://github.com/piyushimself/Hackerone-onemillion-public-reports/blob/main/hackerone-one-million-reports
 
 
 TOOLS:
