@@ -1,7 +1,7 @@
 ### This repo is to maintain notes for bug hunting.
 
-- [ ] One good repo for getting tips is https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist.
-- [ ] Another is https://github.com/OWASP/wstg/tree/master/document/4-Web_Application_Security_Testing.
+- [ ] https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist.
+- [ ] https://github.com/OWASP/wstg/tree/master/document/4-Web_Application_Security_Testing.
 - [ ] https://github.com/shadowsock5/Poc
 - [ ] https://github.com/attacker-codeninja/Weaponize-Your-Burp
 - [ ] https://github.com/daffainfo/AllAboutBugBounty
