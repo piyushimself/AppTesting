@@ -33,4 +33,6 @@ Follwings are from the best resources.
 - [ ] https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 - [ ] https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 - [ ] https://github.com/HolyBugx/HolyTips
+- [ ] https://github.com/jhaddix/tbhm
+- [ ] https://github.com/qazbnm456/awesome-web-security
 - [ ] 
