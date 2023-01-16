@@ -19,7 +19,7 @@ HOW TO HUNT and APPROACHES:
 - [ ] https://github.com/EdOverflow/bugbounty-cheatsheet
 - [ ] https://github.com/pikpikcu/bugbounty/blob/main/account_takeover_checklist.md
 - [ ] https://github.com/daffainfo/AllAboutBugBounty
-- [ ] https://github.com/piyushimself/bbtips
+- [ ] https://github.com/punishell/bbtips
 - [ ] https://github.com/initstring/pentest-methodology
 - [ ] https://github.com/jan-muhammad-zaidi/CheckListPenetrationTesting/blob/main/Checklist.txt
 - [ ] https://github.com/anurag708989/recon_methodology
