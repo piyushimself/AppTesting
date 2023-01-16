@@ -24,6 +24,9 @@ HOW TO HUNT and APPROACHES:
 - [ ] https://github.com/jan-muhammad-zaidi/CheckListPenetrationTesting/blob/main/Checklist.txt
 - [ ] https://github.com/anurag708989/recon_methodology
 - [ ] https://github.com/The-XSS-Rat/SecurityTesting
+- [ ] https://github.com/inonshk/31-days-of-API-Security-Tips
+- [ ] https://github.com/dsopas/MindAPI
+- [ ] 
 
 WRITE UPS and REPORTS:
 - [ ] https://github.com/shadowsock5/Poc
