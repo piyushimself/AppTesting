@@ -25,3 +25,12 @@ Follwings are from the best resources.
 - [ ] https://github.com/anurag708989/recon_methodology
 - [ ] https://github.com/The-XSS-Rat/SecurityTesting
 - [ ] https://github.com/plancoo/Bugbounty_Writeups
+- [ ] https://github.com/piyushimself/bbtips
+- [ ] https://github.com/initstring/pentest-methodology
+- [ ] https://github.com/pikpikcu/bugbounty/blob/main/account_takeover_checklist.md
+- [ ] https://github.com/daffainfo/AllAboutBugBounty
+- [ ] https://github.com/ngalongc/bug-bounty-reference
+- [ ] https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+- [ ] https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+- [ ] https://github.com/HolyBugx/HolyTips
+- [ ] 
