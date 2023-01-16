@@ -40,6 +40,8 @@ WRITE UPS and REPORTS:
 - [ ] https://github.com/piyushimself/Hackerone-onemillion-public-reports/blob/main/hackerone-one-million-reports
 - [ ] https://github.com/Linuxinet/BugcrowdVRT-Resources
 - [ ] http://www.pentest-standard.org/index.php/Main_Page
+- [ ] https://github.com/Ignitetechnologies/BurpSuite-For-Pentester
+
 
 
 TOOLS:
