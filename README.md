@@ -1,5 +1,7 @@
 ### This repo is to maintain notes for bug hunting.
-
+```
+Follwings are from the best resources. 
+```
 - [ ] https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist.
 - [ ] https://github.com/OWASP/wstg/tree/master/document/4-Web_Application_Security_Testing.
 - [ ] https://github.com/shadowsock5/Poc
