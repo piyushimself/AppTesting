@@ -1,4 +1,4 @@
-### This repo is to maintain notes for bug hunting.
+### This repo is to maintain notes for bug hunting. To understand and explore.
 ```
 Follwings are from the best resources. 
 ```
@@ -33,6 +33,9 @@ Follwings are from the best resources.
 - [ ] https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 - [ ] https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 - [ ] https://github.com/HolyBugx/HolyTips
+- [ ] https://github.com/EdOverflow/bugbounty-cheatsheet
+- [ ] https://github.com/djadmin/awesome-bug-bounty
 - [ ] https://github.com/jhaddix/tbhm
 - [ ] https://github.com/qazbnm456/awesome-web-security
-- [ ] 
+- [ ] https://github.com/sumitjat/BugBounty-notes
+- [ ] https://github.com/twseptian/bug-bounty-testing-essential-guideline-startup-bug-hunters
