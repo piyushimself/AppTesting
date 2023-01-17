@@ -11,4 +11,12 @@
 > Distinguish between what can be automated and what can be not. Don't waste time on `what can be not automated.`
 > Try to take technical as well as non technical bugs so you can trained yourself in both way. 
 
+- Some major information that should be focus on:
+- Try to get original IP. Use SecurityTrails or hakoriginfinder type tools. You may need ASN for domain.
+- Try to get all IPs. Get all subdomains and then get IPs.
+- Try to get all JS files. Then find secrets.
+- Try to get all subdomains to do FUZZ.
+- Try to URLs with parameter to try for XSS, SQLI or CMD injection.
+- Try to get URLs (as much as possible) to try Nuclei scan.
+- Try to get all login pages. Try to bypass if interesting internal page. Make an account and play if for normal user. This is most important because here you need to do manual testing and you will get the chance to find IDOR, Business logic, Injection and much more. Without it, there is a very few chance to get a bug.
 
