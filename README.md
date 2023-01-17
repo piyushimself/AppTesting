@@ -59,3 +59,5 @@ TARGETS:
 - [ ] https://github.com/disclose/bug-bounty-platforms
 
 
+
+`Connect me in twitter: https://twitter.com/Sec_p0x`
