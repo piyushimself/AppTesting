@@ -11,7 +11,7 @@
 > Distinguish between what can be automated and what can be not. Don't waste time on `what can be not automated.`
 > Try to take technical as well as non technical bugs so you can trained yourself in both way. 
 
-- Some major information that should be focus on:
+- Some major points that should be focus on:
 - Try to get original IP. Use SecurityTrails or hakoriginfinder type tools. You may need ASN for domain.
 - Try to get all IPs. Get all subdomains and then get IPs.
 - Try to get all JS files. Then find secrets.
