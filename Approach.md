@@ -38,8 +38,8 @@ Then, in 4rt step, we are going to follow checklist to attack all kind of attack
 - [ ]  https://book.hacktricks.xyz/welcome/readme
 
 5th and last step is actually very important. It is to note down everything that you feel important.
-If anything unique, note down.
-If anything is important that you know you can compare with other user, note down. 
-Note down the URLs too, as sometime we miss whare we found something that is needed in future.
-Make mind map of application and place the functions and type of possible attack there. 
-Note down credentials and session data for that particular user.
+- If anything unique, note down.
+- If anything is important that you know you can compare with other user, note down. 
+- Note down the URLs too, as sometime we miss whare we found something that is needed in future.
+- Make mind map of application and place the functions and type of possible attack there. 
+- Note down credentials and session data for that particular user.
