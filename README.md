@@ -2,9 +2,13 @@
 ```
 Follwings are from the best resources. 
 ```
+COMPREHENSIVE:
+- [ ] https://github.com/OWASP/wstg/tree/master/document/4-Web_Application_Security_Testing.
+- [ ] http://www.pentest-standard.org/index.php/Main_Page
+- [ ] https://github.com/twseptian/bug-bounty-testing-essential-guideline-startup-bug-hunters
+
 HOW TO HUNT and APPROACHES: 
 - [ ] https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist.
-- [ ] https://github.com/OWASP/wstg/tree/master/document/4-Web_Application_Security_Testing.
 - [ ] https://github.com/daffainfo/AllAboutBugBounty
 - [ ] https://github.com/KathanP19/HowToHunt
 - [ ] https://github.com/harsh-bothra/learn365
@@ -13,7 +17,6 @@ HOW TO HUNT and APPROACHES:
 - [ ] https://github.com/six2dez/obsidian-pentesting-vault/blob/main/Checklist.md
 - [ ] https://github.com/harsh-bothra/SecurityExplained
 - [ ] https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets
-- [ ] https://github.com/twseptian/bug-bounty-testing-essential-guideline-startup-bug-hunters
 - [ ] https://github.com/jhaddix/tbhm
 - [ ] https://github.com/HolyBugx/HolyTips
 - [ ] https://github.com/EdOverflow/bugbounty-cheatsheet
@@ -39,7 +42,6 @@ WRITE UPS and REPORTS:
 - [ ] https://github.com/plancoo/Bugbounty_Writeups
 - [ ] https://github.com/piyushimself/Hackerone-onemillion-public-reports/blob/main/hackerone-one-million-reports
 - [ ] https://github.com/Linuxinet/BugcrowdVRT-Resources
-- [ ] http://www.pentest-standard.org/index.php/Main_Page
 - [ ] https://github.com/Ignitetechnologies/BurpSuite-For-Pentester
 
 
