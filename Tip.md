@@ -23,7 +23,7 @@ Secret:
 - Try to get all login pages. Try to bypass if interesting internal page.
 - Make an user account and play, if for normal user. This is most important because here you need to do manual testing and you will get the chance to find IDOR, Business logic, Injection, File upload, Rate limit and much more. Without it, there is a very few chance to get a bug.
 
-> Try to learn/update yourself with hunting. It is very important to do both simultaniously. Make 2-3 hr to learn/update and 2-3 hr to hunt. Do automation, run code, read write ups, open browser and look for web resources at rhe time of learning. Take a target and apply learning at the time of hunting. Both time, taking notes is very important. But, take notes at the time of learning to remember and make process easy but take notes at the time of hunting to make hunting easy. Don't mix anything. 
+> Try to learn/update yourself with hunting. It is very important to do both simultaniously. Make 2-3 hr to learn/update and 2-3 hr to hunt. Do automation, run code, read write ups, open browser and look for web resources at the time of learning. Take a target and apply learning at the time of hunting. Both time, taking notes is very important. But, take notes at the time of learning to remember and make process easy but take notes at the time of hunting to make hunting easy. Don't mix anything. For best results and avoid burn out, make plan before start to learn or hunt. This will give your mind a definite task.
 
 ### Attack Points.
 ```
