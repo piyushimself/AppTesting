@@ -60,4 +60,4 @@ TARGETS:
 
 
 
-Connect me in [twitter](https://twitter.com/Sec_p0x)
+Connect with me in [twitter](https://twitter.com/Sec_p0x)
