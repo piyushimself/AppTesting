@@ -14,6 +14,7 @@ Secret:
 
 - Some major points that should be focus on:
 - Try to get original IP. Use SecurityTrails or hakoriginfinder type tools. You may need ASN for domain.
+- If very big scope, do horizonal recon too. This will also help to understand the infrastructure and will trained you to deal with large program. 
 - Try to get all IPs. Get all subdomains and then get IPs.
 - Try to get all JS files. Then find secrets.
 - Try to get all subdomains to do FUZZ.
