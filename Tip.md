@@ -1,3 +1,4 @@
+Secret:
 ```
 1. Read the reports; Hackerone as wll as Medium reports.
 2. Replicate the reports, on the same target, follow the same steps; like a researcher.
