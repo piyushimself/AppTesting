@@ -1,0 +1,94 @@
+`Checklist 1:`
+Week Registration Implementation
+Week password reset implementation
+Lack of security header improper cache control
+The token is invalidated after use
+HTTP and HTTPS are both available
+HTTP by default
+Broken link hijacking
+clickjacking
+Delete account without a password
+Email spoofing
+External Authentication Injection - content spoofing
+Failure to invalidate session on password reset or change
+No rate limit in the login
+No rate limit on OTP
+No rate limit on SMS triggering. 
+No rate limit on email triggering client-side
+No rate limit on email triggering server-side
+No rate limit on Promo code
+Password Policy
+Open Redirection
+Sensitive token in URL
+Clear text transmission of the sensitive token
+token leakage by 3rd party
+sensitive data exposure to pay-per-use abuse
+clipboard enables in password - Android
+Screenshot enable in sensitive pages - Android
+No secure integrity check
+CRLF injection
+Session fixation
+wifi ssid+password
+Token leaked in response
+Exif geolocation data not stripped from manual enumeration
+Exif geolocation data not stripped from automation enumeration
+Failure to invalidate session on logout
+HTML Email injection
+2fa bypass
+Server-side credential storage
+Username enumeration
+WAF Bypass - original IP disclosure
+Blind XSS - XSS Hunter
+Reflected XSS
+Stored XSS
+Stored xss via file upload
+off domain xss
+CSRF
+Iframe injection
+captcha bypass
+2fa bypass through SSO Misconfiguration
+Host header injection
+Missing secure and httpOnly from the session cookie
+Visible detailed / debug error page
+App-level DOS
+Oauth misc account takeover
+Subdomain takeover
+CSRF Application wide 
+Privilege escalation
+Auth bypass using response manipulation
+weak cryptographic flaw
+Hardcoded password/ directory listing
+using default cred
+SSRF
+RCE
+Log4J
+LFI
+RFI
+XXE
+SQL Injection error based
+information disclosure
+
+
+`Checklist for Non-Signup:`
+Broken Link hijacking
+DMARC SPF
+HTTP and HTTPS Available
+EXIF - (If upload option is available)
+No Secure Integrity Check (If upload option is available)
+HTML - (If support/contact us page is available)
+Rate limit (Client or Server)
+Captcha Bypass
+App-level DOS
+SSTI - Command Injection
+Google map API
+Open Redirect
+CRLF Injection
+Reflected XSS
+Visible Debug page
+Subdomain takeover
+Directory Listing
+Path Traversal (LFI)
+Port Scanning
+Info disclosure(PII)
+RCE - LOG4J
+SQL
