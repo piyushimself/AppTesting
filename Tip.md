@@ -23,3 +23,16 @@ Secret:
 - Try to get all login pages. Try to bypass if interesting internal page.
 - Make an user account and play, if for normal user. This is most important because here you need to do manual testing and you will get the chance to find IDOR, Business logic, Injection, File upload, Rate limit and much more. Without it, there is a very few chance to get a bug.
 
+### Attack Points.
+```
+1. Proxies - HTTP Request smuggling, Server side inclusion, Cache poisoning
+2. User Input -> Reflected Values - Injections, SSRF
+3. Search Functionalities - SQL, File inclusion, ReDOS
+4. Forms, WebSockets and PostMsgs - CSRF
+5. HTTP Headers - Cookie hacking, Clickjacking, CSP
+6. Bypasses - 2FA, Rate limit, Race condition, Captcha, Login, Payment process, Registration
+7. Structured objects / Specific functionalities - Email header, XML, JWT
+8. Files - File upload, Formula injection, server side xss
+9. External Identity Management - OAuth to takeover
+10. Other Helpful Vulnerabilities - IDOR, Takeover, Parameter Pollution, 
+```
