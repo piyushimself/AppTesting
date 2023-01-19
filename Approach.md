@@ -32,7 +32,6 @@ Then, in 4rt step, we are going to follow checklist to attack all kind of attack
 
 - [ ]  https://www.notion.so/spinthehack/Checklist-2-After-Recon-Deep-Inside-6a2d8c280a28498d8ad7c38568603b2d
 - [ ]  https://www.notion.so/spinthehack/Checklist-2-After-Recon-Deep-Inside-6a2d8c280a28498d8ad7c38568603b2d
-- [ ]  https://github.com/piyushimself/My-tools-and-commands
 - [ ]  https://pentestbook.six2dez.com/
 - [ ]  https://cheatsheet.haax.fr/
 - [ ]  https://book.hacktricks.xyz/welcome/readme
