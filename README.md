@@ -7,6 +7,7 @@ COMPREHENSIVE:
 - [ ] http://www.pentest-standard.org/index.php/Main_Page
 - [ ] https://github.com/twseptian/bug-bounty-testing-essential-guideline-startup-bug-hunters
 - [ ] https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets
+- [ ] https://github.com/0xInfection/Awesome-WAF
 
 HOW TO HUNT and APPROACHES: 
 - [ ] https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist.
