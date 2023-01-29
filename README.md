@@ -6,6 +6,7 @@ COMPREHENSIVE:
 - [ ] https://github.com/OWASP/wstg/tree/master/document/4-Web_Application_Security_Testing.
 - [ ] http://www.pentest-standard.org/index.php/Main_Page
 - [ ] https://github.com/twseptian/bug-bounty-testing-essential-guideline-startup-bug-hunters
+- [ ] https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets
 
 HOW TO HUNT and APPROACHES: 
 - [ ] https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist.
@@ -13,21 +14,20 @@ HOW TO HUNT and APPROACHES:
 - [ ] https://github.com/KathanP19/HowToHunt
 - [ ] https://github.com/harsh-bothra/learn365
 - [ ] https://github.com/swisskyrepo/PayloadsAllTheThings
-- [ ] https://github.com/imran-parray/Mind-Maps
-- [ ] https://github.com/six2dez/obsidian-pentesting-vault/blob/main/Checklist.md
 - [ ] https://github.com/harsh-bothra/SecurityExplained
-- [ ] https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets
 - [ ] https://github.com/jhaddix/tbhm
 - [ ] https://github.com/HolyBugx/HolyTips
 - [ ] https://github.com/EdOverflow/bugbounty-cheatsheet
-- [ ] https://github.com/pikpikcu/bugbounty/blob/main/account_takeover_checklist.md
 - [ ] https://github.com/daffainfo/AllAboutBugBounty
-- [ ] https://github.com/punishell/bbtips
 - [ ] https://github.com/initstring/pentest-methodology
-- [ ] https://github.com/jan-muhammad-zaidi/CheckListPenetrationTesting/blob/main/Checklist.txt
-- [ ] https://github.com/anurag708989/recon_methodology
 - [ ] https://github.com/The-XSS-Rat/SecurityTesting
 - [ ] https://github.com/inonshk/31-days-of-API-Security-Tips
+- [ ] https://github.com/punishell/bbtips
+- [ ] https://github.com/imran-parray/Mind-Maps
+- [ ] https://github.com/jan-muhammad-zaidi/CheckListPenetrationTesting/blob/main/Checklist.txt
+- [ ] https://github.com/six2dez/obsidian-pentesting-vault/blob/main/Checklist.md
+- [ ] https://github.com/pikpikcu/bugbounty/blob/main/account_takeover_checklist.md
+- [ ] https://github.com/anurag708989/recon_methodology
 
 WRITE UPS and REPORTS:
 - [ ] https://github.com/shadowsock5/Poc
