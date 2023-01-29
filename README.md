@@ -44,8 +44,7 @@ WRITE UPS and REPORTS:
 - [ ] https://github.com/piyushimself/Hackerone-onemillion-public-reports/blob/main/hackerone-one-million-reports
 - [ ] https://github.com/Linuxinet/BugcrowdVRT-Resources
 - [ ] https://github.com/Ignitetechnologies/BurpSuite-For-Pentester
-
-
+- [ ] https://github.com/Bo0oM/WAF-bypass-Cheat-Sheet
 
 TOOLS:
 - [ ] https://github.com/attacker-codeninja/Weaponize-Your-Burp
