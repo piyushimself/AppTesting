@@ -19,11 +19,11 @@ HOW TO HUNT and APPROACHES:
 - [ ] https://github.com/HolyBugx/HolyTips
 - [ ] https://github.com/EdOverflow/bugbounty-cheatsheet
 - [ ] https://github.com/daffainfo/AllAboutBugBounty
-- [ ] https://github.com/initstring/pentest-methodology
 - [ ] https://github.com/The-XSS-Rat/SecurityTesting
 - [ ] https://github.com/inonshk/31-days-of-API-Security-Tips
 - [ ] https://github.com/punishell/bbtips
 - [ ] https://github.com/imran-parray/Mind-Maps
+- [ ] https://github.com/initstring/pentest-methodology
 - [ ] https://github.com/jan-muhammad-zaidi/CheckListPenetrationTesting/blob/main/Checklist.txt
 - [ ] https://github.com/six2dez/obsidian-pentesting-vault/blob/main/Checklist.md
 - [ ] https://github.com/pikpikcu/bugbounty/blob/main/account_takeover_checklist.md
