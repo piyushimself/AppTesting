@@ -11,4 +11,4 @@ jobs:
       with:
         target: ‘http://app.selluseller.com/’
         github-report: true
-        github-token: ${{ secrets.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 }}
+        github-token: ${{ secrets.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 }}
