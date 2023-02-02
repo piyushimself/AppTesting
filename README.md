@@ -29,6 +29,7 @@ HOW TO HUNT and APPROACHES:
 - [ ] https://github.com/six2dez/obsidian-pentesting-vault/blob/main/Checklist.md
 - [ ] https://github.com/pikpikcu/bugbounty/blob/main/account_takeover_checklist.md
 - [ ] https://github.com/anurag708989/recon_methodology
+- [ ] https://github.com/The-XSS-Rat/SecurityTesting/blob/master/Checklists/WAF-bypass-checklist.md
 
 WRITE UPS and REPORTS:
 - [ ] https://github.com/shadowsock5/Poc
@@ -57,6 +58,7 @@ TOOLS:
 TARGETS:
 - [ ] https://github.com/ARPSyndicate/bug-bounty-recon-dataset
 - [ ] https://github.com/disclose/bug-bounty-platforms
+- [ ] https://github.com/The-XSS-Rat/SecurityTesting/blob/master/recommended-targets/main-app.md
 
 
 
