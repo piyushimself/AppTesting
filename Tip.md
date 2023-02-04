@@ -3,6 +3,9 @@
 > Distinguish between what can be automated and what can be not. Don't waste time on `what can be not automated.`
 > Try to take technical as well as non technical bugs so you can trained yourself in both way. 
 
+- One more way
+> A way to easy learning is to `follow hacker`. Follow one hacker and his methodology, `steal like an artist` way. Just read his approach and articles and then turn to other hacker for the same. In the end, you will have your own methodology. 
+
 - Some major points that should be focus on:
 - Try to get original IP. Use SecurityTrails or hakoriginfinder type tools. You may need ASN for domain.
 - If very big scope, do horizonal recon too. This will also help to understand the infrastructure and will trained you to deal with large program. 
