@@ -1,4 +1,4 @@
-
+- *One way*
 > Take one bug type ad try to do as much as mastery on it. `Go deeper.` Go to the basics. 
 > Distinguish between what can be automated and what can be not. Don't waste time on `what can be not automated.`
 > Try to take technical as well as non technical bugs so you can trained yourself in both way. 
