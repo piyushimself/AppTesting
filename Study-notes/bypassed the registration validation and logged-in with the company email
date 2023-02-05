@@ -1,0 +1,53 @@
+https://khaledyassen.medium.com/how-i-bypassed-the-registration-validation-and-logged-in-with-the-company-email-14eb12c45fb5
+
+Bypassed the registration validation and logged-in with the company email
+
+1] If you register with Target email, there might not be an activation code sent, try doing the following:
+
+email=user@target.com
+
+2] Response manipulation during the registration process
+
+Response manipulation: technique that is used to make the target display some UI elements it shouldn’t. It can be used to find new endpoints, buttons, and also to trigger some new requests. Sometimes you can also bypass Password restrictions or OTPs
+
+For example if I found thing like
+
+status:false change it to status:true and so on
+
+3] parameter pollution technique, for example
+
+Try doing the following:
+
+a] Adding parameters with the same key: value like
+
+email=victim@target.com&email=attacker@gmail.com
+
+b] Adding parameter with incremental key: value pairs like
+
+email=victim@target.com&email2=attacker@gmail.com
+
+4] Sometimes, a list of values for the email parameter can be added to bypass the security, like this
+
+email=[‘attacker@target.com’, ‘atatcker@gmail.com’]
+
+HTTP Parameter Pollution (HPP) : is a Web attack evasion technique that allows an attacker to craft a HTTP request in order to manipulate or retrieve hidden information, You can try this technique on many places like password change, 2FA, comments, profile photo upload, on a parameter where API key is passed, OTP etc.
+
+When you manipulate any parameter, its manipulation depends on how each web technology is parsing their parameters, For further details about parsing, go to this website: https://book.hacktricks.xyz/pentesting-web/parameter-pollution.
+
+5] Playing with the value itself, Sometimes, developers write code with weak regex that can be bypassed in a variety of ways, like the following.
+
+Regex: is a sequence of characters that specifies a search pattern in text. Usually such patterns are used by string-searching algorithms for “find” or “find and replace” operations on strings, or for input validation For example email validation, For further details about regex, go to this website: https://regexr.com/
+
+email=victim@target.com@attacker.com
+
+OR
+
+email=victim@attacker.com@target.com
+
+Other techniques:
+
+email=attacker@target.com.atatcker.com
+
+OR
+
+email=attacker@atatcker.com.target.com
