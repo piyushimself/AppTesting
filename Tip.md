@@ -7,19 +7,21 @@
 > A way to easy learning is to `follow hacker`. Follow one hacker and his methodology, in `steal like an artist` way. Just read his approach and articles and then turn to other hacker for the same. In the end, you will have your own methodology. 
 
 - Some major points that should be focus on:
-- Try to get original IP. Use SecurityTrails or hakoriginfinder type tools. You may need ASN for domain.
-- If very big scope, do horizonal recon too. This will also help to understand the infrastructure and will trained you to deal with large program. 
-- Try to get all IPs. Get all subdomains and then get IPs.
-- Try to get all JS files. Then find secrets.
-- Try to get all subdomains to do FUZZ.
-- Try to URLs with parameter to try for XSS, SQLI or CMD injection.
-- Try to get URLs (as much as possible) to try Nuclei scan.
-- Try to get all login pages. Try to bypass if interesting internal page - Authentication bypass.
-- Make an user account and play, if for normal user. This is most important because here you need to do manual testing and you will get the chance to find IDOR, Business logic, Injection, File upload, Rate limit and much more. Without it, there is a very few chance to get a bug.
-- After registration, look for session related bugs.
-- After registration, go to setting/personal information page and look for possible bugs.
-- Notedown API end points when performing any operation, try to check API bugs.
-- Look for 2FA/OTP set, try to exploit them.
+```
+1. Try to get original IP. Use SecurityTrails or hakoriginfinder type tools. You may need ASN for domain.
+2. If very big scope, do horizonal recon too. This will also help to understand the infrastructure and will trained you to deal with large program. 
+3. Try to get all IPs. Get all subdomains and then get IPs.
+4. Try to get all JS files. Then find secrets.
+5. Try to get all subdomains to do FUZZ.
+6. Try to URLs with parameter to try for XSS, SQLI or CMD injection.
+7. Try to get URLs (as much as possible) to try Nuclei scan.
+8. Try to get all login pages. Try to bypass if interesting internal page - Authentication bypass.
+9. Make an user account and play, if for normal user. This is most important because here you need to do manual testing and you will get the chance to find IDOR, Business logic, Injection, File upload, Rate limit and much more. Without it, there is a very few chance to get a bug.
+10. After registration, look for session related bugs.
+11. After registration, go to setting/personal information page and look for possible bugs.
+12. Notedown API end points when performing any operation, try to check API bugs.
+13. Look for 2FA/OTP set, try to exploit them.
+```
 
 > Try to learn/update yourself with hunting. It is very important to do both simultaniously. `Make 2-3 hr to learn/update and 2-3 hr to hunt`. Do automation, run code, read write ups, open browser and look for web resources at the time of learning. Take a target and apply learning at the time of hunting. `For hunting, if not getting anything right, use the secret`. Both time, taking notes is very important. But, take notes at the time of learning to remember and make process easy but take notes at the time of hunting to make hunting easy. `Don't mix anything`. For best results and avoid burn out, make plan before start to learn or hunt. This will give your mind a definite task. 
 
