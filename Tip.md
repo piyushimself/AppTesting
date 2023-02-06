@@ -6,7 +6,7 @@
 - *One more way*
 > A way to easy learning is to `follow hacker`. Follow one hacker and his methodology, in `steal like an artist` way. Just read his approach and articles and then turn to other hacker for the same. In the end, you will have your own methodology. 
 
-- Some major points that should be focus on:
+- Some major points that should be focus on when do recon:
 ```
 1. Try to get original IP. Use SecurityTrails or hakoriginfinder type tools. You may need ASN for domain.
 2. If very big scope, do horizonal recon too. This will also help to understand the infrastructure and will trained you to deal with large program. 
