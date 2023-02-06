@@ -22,7 +22,7 @@
 ```
 1. After registration, look for session related bugs.
 2. After registration, go to setting/personal information page and look for possible bugs.
-3. Notedown API end points when performing any operation, try to check API bugs.
+3. Notedown API endpoints when performing any operation, try to check API bugs.
 4. Look for 2FA/OTP set, try to exploit them.
 ```
 
