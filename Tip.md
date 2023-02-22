@@ -15,7 +15,8 @@
 5. Try to get all subdomains to do FUZZ.
 6. Try to URLs with parameter to try for XSS, SQLI or CMD injection.
 7. Try to get URLs (as much as possible) to try Nuclei scan.
-8. Try to get all login pages. Try to bypass if interesting internal page - Authentication bypass.
+8. Use Gau-Exposed to gather multiple results.
+9. Try to get all login pages. Try to bypass if interesting internal page - Authentication bypass.
 ```
  
 - Make an user account and play, if for normal user. This is most important because here you need to do manual testing and you will get the chance to find IDOR, Business logic, Injection, File upload, Rate limit and much more. Without it, there is a very few chance to get a bug.
