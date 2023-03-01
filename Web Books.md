@@ -25,3 +25,4 @@
 - [https://cowdex.github.io/posts/my-learning-methodology-for-owasp-top-10/](https://cowdex.github.io/posts/my-learning-methodology-for-owasp-top-10/)
 - [https://offsec.tools/](https://offsec.tools/)
 - [https://urlscan.io/user/](https://urlscan.io/user/)
+- [https://securecode.wiki/](https://securecode.wiki/)
