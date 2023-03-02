@@ -1,5 +1,5 @@
 Cloud infrastructure penetration testing, also known as cloud pen testing, is a security assessment technique used to evaluate the security posture of cloud environments. It involves simulating a cyber attack on a cloud-based infrastructure to identify vulnerabilities and weaknesses that could be exploited by malicious actors. Cloud pen testing is critical in ensuring that cloud infrastructure is secure and that sensitive data stored in the cloud is protected from unauthorized access, theft, or misuse.
-
+ 
 Here are the steps to conduct a cloud infrastructure penetration testing:
 
 1. Planning: The first step in conducting cloud infrastructure pen testing is to develop a detailed plan that outlines the scope of the testing, the objectives, the methodologies to be used, and the resources required. This step involves identifying the target cloud infrastructure, including the applications, databases, and other assets to be tested, as well as the types of attacks to be simulated.
