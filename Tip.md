@@ -38,6 +38,7 @@
 8. Look for profile pic or file upload functionality and try file upload exploitation.
 9. For Blind XSS, look for file submission or feedback kind of pages. Look for reflective and Stored XSS too. All is possible.
 10. SQL and Blind SQL is also possible to do if one try in input filed or submit operations.
+11. Look hard for URLs manually to find out parameters and then try related payload to exploit. 
 ```
 
 > Try to learn/update yourself with hunting. It is very important to do both simultaniously. `Make 2-3 hr to learn/update and 2-3 hr to hunt`. Do automation, run code, read write ups, open browser and look for web resources at the time of learning. Take a target and apply learning at the time of hunting. `For hunting, if not getting anything right, use the secret`. Both time, taking notes is very important. But, take notes at the time of learning to remember and make process easy but take notes at the time of hunting to make hunting easy. `Don't mix anything`. For best results and avoid burn out, make plan before start to learn or hunt. This will give your mind a definite task. 
