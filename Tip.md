@@ -3,6 +3,13 @@
 > Distinguish between what can be automated and what can be not. Don't waste time on `what can be not automated.`
 > Try to take technical as well as non technical bugs so you can trained yourself in both way. 
 
+- *another way*
+> Be a "Hactivity Hunter"
+> Take a disclosed fixed bug from Hactivity/CrowdStream and try to bypass the fixes.
+> This will save your time to find out the vulnerable point of application, you don't need to find weakness, you need to find how to bypass the fixes. 
+> This will again give you some kind of boost and help you to pass `Analysis Paralysis` phase.
+
+
 - *One more way*
 > A way to easy learning is to `follow hacker`. Follow one hacker and his methodology, in `steal like an artist` way. Just read his approach and articles and then turn to other hacker for the same. In the end, you will have your own methodology. 
 
