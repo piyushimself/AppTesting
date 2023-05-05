@@ -1,30 +1,30 @@
 - What professional do?
-> Protect Organization and people.
-> Password Management
-> Investigate and report finding. 
+1.  Protect Organization and people.
+2.  Password Management
+3.  Investigate and report finding. 
 
 - Prepare for potential risk and minimizing damage.
 
 - What to protect:
-> Network
-> Devices
-> People
-> Date
+1. Network
+2. Devices
+3. People
+4. Date
 
 - CIA
-> Confidentiality
-> Integrity
-> Availablity
+1. Confidentiality
+2. Integrity
+3. Availablity
 
 ```
 Toni, Security engg. manager, says tools like python and SQL are great to learn.
 ```
 
 - Responsibility: Monitoring and protacting.
-> Protect computers and Network system.
-> Do Pen test and Ethical hacking.
-> Install prevention software.
-> Conduct periodic security audit internal.
+1. Protect computers and Network system.
+2. Do Pen test and Ethical hacking.
+3. Install prevention software.
+4. Conduct periodic security audit internal.
 
 ```
 Niki, Security engg., says there are multiple things to look like blue team and red team. Whenever an incident occure, it is also imp to look for false positive.
@@ -32,9 +32,9 @@ Niki, Security engg., says there are multiple things to look like blue team and 
 - Terminology - Compliances, Security frameworks, Security controls, Security posture, Threat actors, Internal threats, Network security, Cloud security, Programming.
 
 - Programming is to automate task.
-> Like find list of malicious domains.
-> Revewing the web traffic.
-> Alert suspicious activity.
+1. Like find list of malicious domains.
+2. Revewing the web traffic.
+3. Alert suspicious activity.
 
 ### Personal experince and perspectives are valuable in security.
 - Two type of skills:
