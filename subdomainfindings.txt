@@ -1,0 +1,27 @@
+##NOTES - Subdomain findings
+
+Domain disovery:
+
+https://www.whoxy.com/
+to find ASN go to bgp.he.net 
+amass intel -ans ANS -o ans.txt -v 
+
+subfinder
+  Shodan
+  securitytrails
+  Censys
+assetfinder
+knockpy.py
+
+amass enum -d domain.com | grep -Eo "([a-zA-Z0-9.-]+\.)*domain.\com" | sort -u | anew amass_subdomain.txt -v
+
+Vhost =
+domain.com -> IP
+testing.domain.com -> IP
+
+ffuf -u "http://domain.com" -H "HOST: FUZZ.domain.com" -w wordlist.txt
+
+ 
+
+
+
